@@ -448,6 +448,12 @@ textarea.field {
   background-color: #323232;
 } 
 
+.button:focus {
+     outline: none;
+     box-shadow: 0 0 0 4px;
+     color: #cbd6ee;
+   }
+
 .button {
   height: 47px;
   border: none;
